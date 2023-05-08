@@ -15,7 +15,7 @@ INSERT INTO Asiakas (AsiakasNumero, Sukunimi, Etunimi, OsoiteID, Puhelin, Sahkop
 INSERT INTO Asiakas (AsiakasNumero, Sukunimi, Etunimi, OsoiteID, Puhelin, Sahkoposti) VALUES (1001,'Niemi','Milla', 1,'0501234567','milla.niemi@palvelin.com');
 INSERT INTO Asiakas (AsiakasNumero, Sukunimi, Etunimi, OsoiteID, Puhelin, Sahkoposti) VALUES (1002,'Vaara','Valto', 3,'0418765432','valto.vaara@kmail.com');
 INSERT INTO Asiakas (AsiakasNumero, Sukunimi, Etunimi, OsoiteID, Puhelin, Sahkoposti) VALUES (1003,'Salmi','Simo', 5,'0403456789','simo.salmi@kmail.com');
-INSERT INTO Asiakas (AsiakasNumero, Sukunimi, Etunimi, OsoiteID, Puhelin, Sahkoposti) VALUES (1004,'Peltone','Peter', 4,'0556543212','peter.peltonen@smail.com');
+INSERT INTO Asiakas (AsiakasNumero, Sukunimi, Etunimi, OsoiteID, Puhelin, Sahkoposti) VALUES (1004,'Peltonen','Peter', 4,'0556543212','peter.peltonen@smail.com');
 
 INSERT INTO Tuoteryhma (TuoteryhmaID, Nimi, Kuvaus, alv) VALUES (10000,'Tietokoneet','Kannettavat ja pöytätietokoneet', 24);
 INSERT INTO Tuoteryhma (TuoteryhmaID, Nimi, Kuvaus, alv) VALUES (10001,'Kellot','Älykellot ja urheilukellot',24);
